@@ -63,5 +63,5 @@ The data used for this project is loaded from a CSV file named `data.csv`. This 
 
 ![Password Strength Checker](image.png)
 
-##### It was developed as part of academic projects in the Information Security subject.
+##### It was developed as part of academic projects in the Information Security subject. [Report](https://github.com/dwija12903/password-strength-checker/blob/main/Project_Report.pdf)
 
