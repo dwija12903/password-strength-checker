@@ -59,5 +59,6 @@ To run this password strength checker on your local machine, follow these steps:
 
 The data used for this project is loaded from a CSV file named `data.csv`. This file contains password samples with corresponding labels indicating their strength.
 ---
+### 🌐 Snippets
 
 ![Password Strength Checker](image.png)
