@@ -27,8 +27,8 @@ To run this password strength checker on your local machine, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/pswd-strength-checker.git
-   cd pswd-strength-checker
+   git clone https://github.com/dwija12903/password-strength-checker.git
+   cd password-strength-checker
    ```
 
 2. **Install Dependencies:**
